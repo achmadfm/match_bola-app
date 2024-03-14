@@ -9,7 +9,7 @@
 
 ## Tentang Match APP
 
-Aplikasi ini adalah Aplikasi penginputan Data Klasmen Sepak Bola yang diadakan oleh Perusahaan APTAVIS untuk test Web Developer
+Aplikasi ini adalah Aplikasi penginputan Data Klasmen Sepak Bola yang diadakan oleh Perusahaan APTAVIS untuk test Web Developer menggunakan Laravel 9 + Jquery + MySQL (PHP 8)
 
 ## Cara Instalasi
 
